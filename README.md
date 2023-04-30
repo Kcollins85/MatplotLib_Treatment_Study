@@ -1,5 +1,6 @@
 # MatplotLib Treatment Study
 
+
 # Background
 Pymaceuticals, Inc., a new pharmaceutical company specialises in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -18,3 +19,5 @@ Instructions
 - Generate a line plot of tumor volume vs. time point for a mouse treated with Capomulin
 - Generate a scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
 - Calculate the correlation coefficient and linear regression model 
+
+An assignment for Monash University's Data Analytics Bootcamp (2023)
